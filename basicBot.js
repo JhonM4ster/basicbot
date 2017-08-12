@@ -310,7 +310,7 @@
             welcome: true,
             opLink: null,
             rulesLink: null,
-            themeLink: https://cdn.radiant.dj/rcs/bg/9.png,
+            themeLink: null,
             fbLink: null,
             youtubeLink: null,
             website: https://www.minecraftfatalgamer.net,
