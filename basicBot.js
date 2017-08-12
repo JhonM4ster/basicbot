@@ -309,7 +309,7 @@
             etaRestriction: false,
             welcome: true,
             opLink: null,
-            rulesLink: Em Breve,
+            rulesLink: null,
             themeLink: https://cdn.radiant.dj/rcs/bg/9.png,
             fbLink: null,
             youtubeLink: null,
