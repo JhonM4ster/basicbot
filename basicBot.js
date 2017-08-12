@@ -313,7 +313,7 @@
             themeLink: null,
             fbLink: null,
             youtubeLink: null,
-            website: https://www.minecraftfatalgamer.net,
+            website: null,
             intervalMessages: [],
             messageInterval: 5,
             songstats: true,
@@ -2057,7 +2057,7 @@
 
             commandsCommand: {
                 command: 'commands',
-                rank: 'user',
+                rank: 'manager',
                 type: 'exact',
                 functionality: function(chat, cmd) {
                     if (this.type === 'exact' && chat.message.length !== cmd.length) return void(0);
@@ -3181,7 +3181,7 @@
 
             pingCommand: {
                 command: 'ping',
-                rank: 'user',
+                rank: 'manager',
                 type: 'exact',
                 functionality: function(chat, cmd) {
                     if (this.type === 'exact' && chat.message.length !== cmd.length) return void(0);
