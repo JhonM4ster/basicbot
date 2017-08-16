@@ -2056,7 +2056,7 @@
             },
 
             commandsCommand: {
-                command: 'commands',
+                command: 'commandsefwfwfref',
                 rank: 'manager',
                 type: 'exact',
                 functionality: function(chat, cmd) {
@@ -2072,7 +2072,7 @@
             },
 
             cookieCommand: {
-                command: 'cookie',
+                command: 'cookieffeff',
                 rank: 'manager',
                 type: 'startsWith',
                 getCookie: function(chat) {
@@ -2699,7 +2699,7 @@
             },
 
             killCommand: {
-                command: 'kill',
+                command: 'killllll',
                 rank: 'manager',
                 type: 'exact',
                 functionality: function(chat, cmd) {
